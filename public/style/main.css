@@ -1,6 +1,6 @@
 html {
-  font-size: 18px;
   font-family: Helvetica, Verdana, sans-serif;
+  font-size: 18px;
   font-weight: 80px;
 }
 
@@ -18,7 +18,7 @@ body {
 
 .nav-title {
   color: rgba(217, 229, 214, 1);
-  font-family: 'Avant Garde', Avantgarde, 'Century Gothic', CenturyGothic, AppleGothic, sans-serif;
+  font-family: 'Avant Garde', Avantgarde, sans-serif;
   font-size: 102px;
 }
 
@@ -37,8 +37,6 @@ input {
 
 button {
   border-radius: 6px solid;
-  border-color: white;
-  background-color: black;
   padding: 10px 16px;
   color: #333;
   background-color: #fff;
@@ -46,16 +44,9 @@ button {
 }
 
 h1 {
-  color: rgba(33, 11, 44, 1);
-  background-color: rgba(255, 34, 12, .3);
-  padding: 10px;
-  display: block;
-  width: 200px;
+  color: rgba(33, 11, 46, 1);
 }
 
 h2 {
   color: rgba(33, 11, 44, 1);
-  background-color: rgba(255, 34, 12, .3);
-  height: 35px;
-  display: block;
 }
