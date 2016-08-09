@@ -1,4 +1,4 @@
 .env
 Gemfile
 Gemfile.lock
-main.css
+style/main.css
